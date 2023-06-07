@@ -1,0 +1,5 @@
+name: NoSuperEnchantPlugin
+version: 1.2
+main: com.nopvpplugin.NoPvPPlugin
+author: Marayd
+description: Плагин для блокировки PvP

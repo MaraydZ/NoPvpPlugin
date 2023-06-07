@@ -1,0 +1,19 @@
+name: NoPvPPlugin
+version: 1.2
+main: com.nopvpplugin.NoPvPPlugin
+author: Marayd
+description: Плагин для блокировки PvP
+
+commands:
+  nopvpadmin:
+    description: Управление PvP для игроков
+    usage: /nopvpadmin <игрок> <on|off>
+
+permissions:
+  nopvp.use:
+    description: Разрешение на использование команды /nopvpadmin
+    default: op
+  nopvp.other:
+    description: Разрешение на использование команды /nopvpadmin для других игроков
+    default: op
+
