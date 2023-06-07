@@ -127,11 +127,11 @@ public class NoPvPPlugin extends JavaPlugin implements CommandExecutor, Listener
     }
 
     private void connectToDatabase() {
-        String host = "mysql4.joinserver.xyz";
+        String host = "sfddsfsdfdsfsfd.fds.fd";
         int port = 3306;
-        String database = "s126835_firehvh";
-        String username = "u126835_HQgn2MOcgM";
-        String password = "I!CO^spoA.2L9HUixjpn@9LP";
+        String database = "sdfsfdsfd";
+        String username = "sdfdsfdfs";
+        String password = "afdsasafawfsafsP";
 
         try {
             // Загружаем драйвер JDBC для MySQL
